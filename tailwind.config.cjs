@@ -14,6 +14,10 @@ module.exports = {
         yellow4: '#e6cc00',
         yellow5: '#e5de00',
       },
+
+      gridTemplateRows: {
+        7: 'repeat(7, minmax(0, 1fr))'
+      },
       
     },
   },
